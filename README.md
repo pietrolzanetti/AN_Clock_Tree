@@ -1,4 +1,4 @@
-# Aplication Note - Configuração da árvore de clock em tempo de execução em um STM32F103rb Nucleo
+# Aplication Note - Runtime clock tree configuration on an STM32F103rb Nucleo
 
 ## Introduction
 
