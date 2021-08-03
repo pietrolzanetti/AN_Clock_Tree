@@ -8,7 +8,7 @@ The STM32F103RB features a series of clocks intended for various functionalities
 
 This AN was developed by Pietro Zanetti and Pedro Bahia as a work in the discipline of Embedded Systems Programming at UFMG - Prof. Ricardo de Oliveira Duarte - Department of Electronic Engineering.
 
-The present code contains an example of using the theme covered in this AP.
+The code is present in the master branch due to problems encountered when commiting it and contains an example of using the theme covered in this AP. (Branches will be merged as soon as possible.)
 
 ## Hardware and software requirements
 * STM32F103xb microntroller;
